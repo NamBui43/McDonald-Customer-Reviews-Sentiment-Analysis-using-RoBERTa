@@ -1,4 +1,4 @@
-# McDonald-Reviews-Sentiment-Analysis-with-RoBERTa
+# McDonald-Reviews-Sentiment-Analysis-using-RoBERTa
 
 ## Introduction
 In this project, I perform a comprehensive analysis on McDonald's Customer Reviews, utilizing a sentiment analysis technique and 2 machine learning algorithms. My goal is to gain valuable insights into customer perceptions of McDonald's services and classify customer sentiment towards McDonald's services based on their their reviews. 
