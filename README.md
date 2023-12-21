@@ -16,7 +16,7 @@ Unlike ntlk model, which only accounts for the meaning of the word itself, this 
 ### Modelling
 The performances of 2 models - Decision Tree Classifier and Support Vector Classifier are compared. 
 
-The superior model is later on further refined.
+The superior model is subsequently refined for optimal performance.
 
 ## Requirments
 The code for this project was written in Python 3.8 and requires the following libraries:
